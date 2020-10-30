@@ -1,5 +1,5 @@
 # yolov3
-yolov3实践
+yolov3实践，参考地址：https://github.com/FLyingLSJ/Computer_Vision_Project/tree/master/Object_Detection/yolo_demo
 
 环境：python3.6, opencv
 
